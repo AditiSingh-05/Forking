@@ -1,2 +1,1 @@
-# Forking
-This repository is for  forking by others.
+This repository is created for the forking purpose by other.
